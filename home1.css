@@ -1,0 +1,7 @@
+body {
+    background-color: #00120b;
+}
+
+.g {
+    filter: invert(1);
+}
